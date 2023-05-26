@@ -8,6 +8,7 @@ namespace POO2.Services
 {
     public class ArticulosP
     {
+        //hola hola
         double total,descuento,art;
         public void Objetos ()
         {
