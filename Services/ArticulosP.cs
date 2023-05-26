@@ -9,6 +9,8 @@ namespace POO2.Services
     public class ArticulosP
     {
         //hola hola
+        //¿Cual es tu nombre?
+        // ahhh no sale
         double total,descuento,art;
         public void Objetos ()
         {
